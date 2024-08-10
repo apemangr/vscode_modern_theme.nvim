@@ -24,7 +24,7 @@ return {
         local theme = {
             palette = palette,
             ui = {
-                bg = background,
+                bg = palette.dark_03,
                 bg_darker_01 = palette.dark_05,
                 fg = palette.light_07,
                 cursor = {
