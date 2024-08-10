@@ -3,7 +3,7 @@ return {
     --- @param config Config
     --- @return ThemeDark
     dark = function(palette, config)
-        local background = palette.dark_06
+        local background = palette.dark_03
         local statusline_bg = palette.dark_03
 
         if
